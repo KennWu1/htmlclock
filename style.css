@@ -3,14 +3,14 @@
   width: 460px;
   font-size: 70px;
   background-color: black;
-  color: limegreen;
+  color: white;      
   padding: 25px;
   border-radius: 10px;
 }
 #labels {
   margin-top: -25px;
   z-index: 2;
-  color: limegreen;
+  color: white;
   font-size: 12px;
 }
 #hh {margin-left: 45px;}
